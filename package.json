@@ -1,0 +1,12 @@
+{
+  "name": "property-enquiry-agent",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Answers property enquiries and qualifies viewings for estate agents — grounded in the listing, and structurally unable to screen on a protected characteristic.",
+  "scripts": {
+    "test": "node --test \"src/*.test.js\"",
+    "reply": "node src/cli.js"
+  },
+  "dependencies": { "@anthropic-ai/sdk": "^0.68.0" },
+  "license": "MIT"
+}

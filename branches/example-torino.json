@@ -1,0 +1,14 @@
+{
+  "name": "Esempio Immobiliare, Torino",
+  "jurisdiction": "eu",
+  "languages": ["it", "en", "de", "fr", "ru"],
+
+  "diary": [
+    { "when": "Thursday 30 October, 15:00" },
+    { "when": "Friday 31 October, 11:00", "taken": true },
+    { "when": "Saturday 1 November, 10:00" },
+    { "when": "Saturday 1 November, 16:30" }
+  ],
+
+  "prompt_overlay": "Viewings are accompanied — a colleague always attends. Parking in the courtyard is included in the price, which people often assume is extra, so say so when parking comes up."
+}

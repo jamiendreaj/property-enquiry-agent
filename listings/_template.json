@@ -1,0 +1,28 @@
+{
+  "_note": "Copy this to listings/<reference>.json. Real listings are gitignored.",
+
+  "reference": "",
+  "address": "",
+  "type": "",
+  "bedrooms": 0,
+  "size_sqm": 0,
+  "price": 0,
+  "price_text": "",
+  "status": "available",
+
+  "rooms": [
+    { "name": "", "size_sqm": 0, "notes": "" }
+  ],
+
+  "facts": {
+    "_comment": "Anything a buyer asks that has a factual answer. If it is not here, the agent does not know it and will escalate rather than guess. That is the point — fill it in properly.",
+    "floor": "",
+    "heating": "",
+    "service_charge": "",
+    "energy_rating": "",
+    "outdoor_space": "",
+    "parking": ""
+  },
+
+  "access": "  · Record access plainly: lift, steps, ramps, doorway widths, distance to parking.\n  · This is the one subject the agent MUST answer rather than deflect — see LEGAL.md."
+}

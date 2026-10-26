@@ -1,0 +1,33 @@
+{
+  "_note": "EXAMPLE ONLY — a fictional listing used for the demo and the tests. Not a real property. Replace entirely before any real use.",
+
+  "reference": "TO-114",
+  "address": "Via Esempio 10, Torino",
+  "type": "Apartment",
+  "bedrooms": 3,
+  "size_sqm": 86,
+  "price": 285000,
+  "price_text": "€285,000",
+  "status": "available",
+
+  "rooms": [
+    { "name": "Living room", "size_sqm": 24, "notes": "South-facing, door to the terrace." },
+    { "name": "Kitchen", "size_sqm": 11, "notes": "Refitted 2021." },
+    { "name": "Bedroom 1", "size_sqm": 15 },
+    { "name": "Bedroom 2", "size_sqm": 11, "notes": "Built-in wardrobe." },
+    { "name": "Bedroom 3", "size_sqm": 8, "notes": "Currently used as a study." }
+  ],
+
+  "facts": {
+    "floor": "2nd of 4",
+    "heating": "Autonomous, gas, replaced 2022",
+    "service_charge": "€1,200 a year",
+    "energy_rating": "C",
+    "outdoor_space": "Terrace, 9 m², south-facing",
+    "parking": "One space in the courtyard, included",
+    "cellar": "Yes, 6 m²",
+    "year_built": "1962, fully renovated 2021"
+  },
+
+  "access": "  · Lift to all floors\n  · Three steps from the street to the lobby, no ramp\n  · Parking space is 6 metres from the lobby door\n  · Bathroom doorway 72 cm"
+}
